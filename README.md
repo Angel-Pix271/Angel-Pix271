@@ -21,7 +21,7 @@ Me enfoco en la creación de aplicaciones web prácticas como calculadoras, sist
 - 🌱 Aprendiendo JavaScript y Node.js
 - 🌐 Desarrollando proyectos en JavaScript, HTML y CSS
 - 🗄️ Aprendiendo SQL y MySQL
-- 🖥️ Aprendiendo C#
+- 🖥️ Aprendiendo Python
 - 📚 Fortaleciendo fundamentos de bases de datos
 
 ---
@@ -31,7 +31,7 @@ Me enfoco en la creación de aplicaciones web prácticas como calculadoras, sist
 ### Backend
 - JavaScript (en aprendizaje)
 - Node.js (en aprendizaje)
-- C# (en aprendizaje)
+- Python (en aprendizaje)
 - SQL (en aprendizaje)
 - MySQL (en aprendizaje)
 
@@ -58,9 +58,9 @@ Me enfoco en la creación de aplicaciones web prácticas como calculadoras, sist
 
 ## 📌 Proyectos en desarrollo
 
-- 🧮 Calculadora Web
-- 📋 Sistema de listas de usuario
-- 📦 Sistema básico de inventario
+- 🧮 Calculadora Web 
+- 📋 Sistema de listas de usuario (Pendiente)
+- 📦 Sistema básico de inventario (Pendiente)
 - 🌐 Portafolio web personal (en desarrollo)
 
 ---
